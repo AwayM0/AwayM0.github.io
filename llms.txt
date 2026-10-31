@@ -1,0 +1,17 @@
+﻿# AWEI 's Blog
+> Awei的个人博客，记录生活中的一切，使用Firefly模板制作
+
+## Key Pages
+- [主页](https://awaym0.github.io/)
+- [归档](https://awaym0.github.io/archive/)
+- [关于我](https://awaym0.github.io/about/)
+- [留言](https://awaym0.github.io/guestbook/): 欢迎在这里留下你的足迹，分享你的想法和建议
+- [动态](https://awaym0.github.io/dynamic/): 随手记下此刻的想法与日常。
+- [项目](https://awaym0.github.io/projects/): 这里展示我开发过的项目
+- [相册](https://awaym0.github.io/gallery/): 记录生活中的美好瞬间
+- [书签导航](https://awaym0.github.io/booknav/): 收藏一些好用的网站，按分类整理
+
+## Recent Posts
+- [博客使用简明教程](https://awaym0.github.io/posts/usage-guide/): 本站的搭建来源、文章与媒体文件的存放位置，以及日常写作和发布流程速查。
+- [1030不要反复造轮子](https://awaym0.github.io/posts/26-10-30/): 一次不了了之的vibecoding
+- [我的第一篇博客](https://awaym0.github.io/posts/hello-world/): 欢迎来到我的个人博客，这是第一篇文章。
